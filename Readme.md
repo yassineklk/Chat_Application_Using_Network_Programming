@@ -27,14 +27,14 @@ For example:
 With the clients set up, users can communicate effortlessly.
 ```
 
-###Features
+### Features
 
-#General Channel: Upon connecting with a new user, they are automatically joined to the general channel. Users can view all messages in this channel and send their own messages, visible to everyone.
+**General Channel**: Upon connecting with a new user, they are automatically joined to the general channel. Users can view all messages in this channel and send their own messages, visible to everyone.
 
-#Private Messaging: Users can send private messages to each other using the command /m "user_name" [message].
+**Private Messaging**: Users can send private messages to each other using the command /m "user_name" [message].
 
-#Join Private Channels: To join a private channel, use the command /join [number]. Please note that currently, only numerical values are supported for channel names.
+**Join Private Channels**: To join a private channel, use the command /join [number]. Please note that currently, only numerical values are supported for channel names.
 
-Message History: The chat application saves and displays the message history for every channel. This historical data is available whenever a user joins a channel. Be aware that all message histories are deleted when the server is shut down.
+**Message History**: The chat application saves and displays the message history for every channel. This historical data is available whenever a user joins a channel. Be aware that all message histories are deleted when the server is shut down.
 
 We hope you enjoy using our distributed chat application! If you have any questions or encounter issues, please feel free to reach out to us.
