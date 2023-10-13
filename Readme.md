@@ -7,7 +7,7 @@ This repository is dedicated to a  project focused on building a distributed cha
 To run the application, follow these steps:
 
 ### Server
-1. Navigate to the `/Serveur` directory.
+1. Navigate to the `/Server` directory.
 2. Execute `make` to compile the server code.
 3. Run the server using `make run`. The server is now up and running!
 
